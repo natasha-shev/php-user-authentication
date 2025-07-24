@@ -1,5 +1,3 @@
+User authentication app from [LinkedIn Learning][lil-course-url] Course with db changed to SQLite.
 
-User authentication app from [LinkedIn Learning Course][lil-course-url] with db changed to SQLite.
-
-
-
+[lil-course-url]: https://www.linkedin.com/learning/php-user-authentication
